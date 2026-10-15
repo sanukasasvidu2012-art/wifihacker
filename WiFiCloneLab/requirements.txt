@@ -1,0 +1,4 @@
+# WiFiCloneLab uses Python standard-library modules.
+#
+# Optional Android integration:
+# Install Termux:API separately from the Termux ecosystem.
